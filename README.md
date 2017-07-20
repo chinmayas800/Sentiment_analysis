@@ -4,3 +4,13 @@ Analysis of a dataset of movie reviews collected from the IMDb
 •  Topic modelling using Latent Dirichlet Allocation(LDA) from scikit-learn.
 •  Optimised the parameters using grid search and evaluated using cross-validation.
 
+Dependancies
+________________
+
+-nltk
+-spacy
+-sklearn
+-pandas
+-matplotlib
+-numpy
+
